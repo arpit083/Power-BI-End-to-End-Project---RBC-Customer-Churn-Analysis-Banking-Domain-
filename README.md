@@ -1,1 +1,4 @@
-# Power-BI-End-to-End-Project---RBC-Customer-Churn-Analysis-Banking-Domain-
+# Power BI End-to-End Project: RBC Customer Churn Analysis Banking Domain
+This project is focused on analyzing and visualizing the Royal Bank of Canada's customer data using Power BI. The project consists of various tables, including active customer, exit customer, geography, credit card, customer info, and bank churn. The data analysis and visualization were performed using various features of Power BI, such as DAX functions, Row-Level Security(RLS), Slicers, Bookmarks, Buttons, Smart Narrative, Q&A, bar chart, pie chart, line chart, etc. 
+
+The analysis will focus on identifying various KPIs such as Inactive customers, Retain Customers, Exit Customers, and the underlying patterns like previous month exit customers vs. current month exit customers, customers churn by credit type, customer churn by gender, churn %, customers by geographic location etc.
